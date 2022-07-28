@@ -1,0 +1,53 @@
+			#thirdDiv{
+			width: 500px;
+			height: 600px;
+			background: yellow;
+			padding: 50px;
+			border: 5px solid red;
+			position: absolute;
+			left: 25%;
+		}
+
+		#spanId{
+			
+			font-size: 18px;
+			margin: 50px;
+			display: flex;
+			justify-content: center;
+			
+		}
+
+		h1{
+			color: red;
+			display: flex;
+			justify-content: center;
+		}
+		img{
+			width: 400px;
+						display: flex;
+			justify-content: center;
+		}
+
+		body{
+			background-image: url(https://www.cocinacaserayfacil.net/wp-content/uploads/2020/03/Platos-de-comida-que-pides-a-domicilio-y-puedes-hacer-en-casa-945x630.jpg);
+			background-repeat: no-repeat;
+			background-position: center center;
+			background-attachment: fixed;
+			background-size: cover;
+
+			
+		}
+		h3 {
+			display: flex;
+			justify-content: center;
+		}
+
+		h4 {
+						display: flex;
+			justify-content: center;
+		}
+
+		a {
+						display: flex;
+			justify-content: center;
+		}
